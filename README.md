@@ -1,4 +1,5 @@
 https://www.jaredwolff.com/blog/get-started-with-bluetooth-low-energy/
+
 https://community.home-assistant.io/t/xiaomi-mijia-bluetooth-temperature-humidity-sensor-compatibility/43568
 
 
